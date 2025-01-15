@@ -8,7 +8,7 @@ import os
 
 def funcion1():
     os.system("cls")
-    print("Dame dos numeros: ")
+    print("Dame dos números: ")
     num1 = int(input('Primer numero: '))
     num2 = int(input('Segundo numero: '))
     res = num1 + num2
