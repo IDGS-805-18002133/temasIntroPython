@@ -11,3 +11,4 @@ y2=float(input("Ingrese el valor y2: "))
 
 distancia=sqrt((x2-x1)**2 + (y2-y1)**2)
 print("La distancia entre los 2 puntos es: {}".format(distancia))
+
