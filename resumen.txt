@@ -1,0 +1,7 @@
+
+==== Resumen de Compra #1 ====
+Nombre de Dueño: fff
+Cantidad de Personas: 1
+Total de Boletos: 1
+Método de Pago: Efectivo
+Total a pagar: $12.00
